@@ -85,7 +85,7 @@ I created a Digital Literacy Awareness Quiz using Google Forms. The quiz contain
 The form collects responses and automatically stores them in a linked Google Sheet.
 
 Quiz Link:
-(Add your Google Form link here)
+(https://docs.google.com/forms/d/e/1FAIpQLScUW5rfJ0qlpEVLRsOBYl3Fm96fSxD7c7umSjcwxFptD57xEg/viewform?usp=dialog)
 
 Screenshots of the form and the response sheet are included in the task-3-platforms folder.
 
